@@ -28,7 +28,4 @@
 - [LinkedIn](https://www.linkedin.com/in/shaik-azeem-z9901/)  
 - Email: azeemshaikmohd29@gmail.com
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
