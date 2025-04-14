@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Shaik Azeem
 
-<!--
-**azeem-shaik/azeem-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 🎓 I'm currently pursuing my **Master of Science (MSc) in Data Science**  
 📊 Aspiring **Data Analyst** with a passion for transforming data into actionable insights
